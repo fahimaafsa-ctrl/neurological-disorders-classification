@@ -1,0 +1,101 @@
+Gene,ImportanceScore,DiseaseAssociation,BiologicalRelevance
+VAMP2,0.8473411890176626,"Shared (AD, PD, HD, MS)",Protein involved in synaptic vesicle fusion and neurotransmitter release
+OCEL1,0.8463685374993545,"Shared (AD, PD, HD, MS)",Function not explicitly categorized (likely regulatory role)
+B3GALT6,0.8462634590955881,"Shared (AD, PD, HD, MS)",Function not explicitly categorized (likely regulatory role)
+PPIL3,0.8457105480707608,"Shared (AD, PD, HD, MS)",Peptidyl-prolyl isomerase involved in protein folding and cellular regulation
+TMEM205,0.8455121242083036,"Shared (AD, PD, HD, MS)",Function not explicitly categorized (likely regulatory role)
+PIN1P1,0.8454982134012076,"Shared (AD, PD, HD, MS)",Function not explicitly categorized (likely regulatory role)
+SLITRK2,0.8454084900709299,"Shared (AD, PD, HD, MS)",Axon guidance molecule involved in neuronal connectivity and development
+AGPAT3,0.8453905949225793,"Shared (AD, PD, HD, MS)",Enzyme involved in phospholipid biosynthesis and lipid metabolism
+CD47,0.8450847818301275,"Shared (AD, PD, HD, MS)",Cell surface receptor involved in immune signaling and cell communication
+ADAT1,0.8450767260331374,"Shared (AD, PD, HD, MS)",RNA editing enzyme involved in post-transcriptional modification
+B4GALNT3,0.8448964219826919,"Shared (AD, PD, HD, MS)",Function not explicitly categorized (likely regulatory role)
+BTNL3,0.8448217923824604,"Shared (AD, PD, HD, MS)",Function not explicitly categorized (likely regulatory role)
+TCEAL3,0.8447878314898565,"Shared (AD, PD, HD, MS)",Function not explicitly categorized (likely regulatory role)
+HOXD9,0.8446076741585364,"Shared (AD, PD, HD, MS)",Developmental regulator involved in body patterning and neuronal differentiation
+PDX1,0.8444392451873193,"Shared (AD, PD, HD, MS)",Function not explicitly categorized (likely regulatory role)
+ZNF92,0.8444276727162875,"Shared (AD, PD, HD, MS)",DNA-binding zinc finger protein involved in transcriptional regulation
+ZNF415,0.844408915593074,"Shared (AD, PD, HD, MS)",DNA-binding zinc finger protein involved in transcriptional regulation
+HOXD13,0.8443623872903677,"Shared (AD, PD, HD, MS)",Developmental regulator involved in body patterning and neuronal differentiation
+MAPK11,0.8442515593308669,"Shared (AD, PD, HD, MS)",Kinase involved in MAPK signaling pathway regulating cell stress and survival
+ZNF880,0.8441727803303645,"Shared (AD, PD, HD, MS)",DNA-binding zinc finger protein involved in transcriptional regulation
+NLRP2,0.8409187335234422,AD,Function not explicitly categorized (likely regulatory role)
+TCEAL3,0.8447878314898565,AD,Function not explicitly categorized (likely regulatory role)
+CTNNB1,0.8415996982501104,AD,Beta-catenin protein involved in Wnt signaling and cell adhesion
+HNRNPL,0.8423577638772818,AD,Function not explicitly categorized (likely regulatory role)
+ZNF557,0.8432627687087426,AD,DNA-binding zinc finger protein involved in transcriptional regulation
+AMFR,0.8441394108992356,AD,Function not explicitly categorized (likely regulatory role)
+B3GALT6,0.8462634590955881,AD,Function not explicitly categorized (likely regulatory role)
+AGPAT3,0.8453905949225793,AD,Enzyme involved in phospholipid biosynthesis and lipid metabolism
+OCEL1,0.8463685374993545,AD,Function not explicitly categorized (likely regulatory role)
+USP7,0.84399086695451,AD,Function not explicitly categorized (likely regulatory role)
+PSPH,0.8432653775581946,AD,Function not explicitly categorized (likely regulatory role)
+TMEM205,0.8455121242083036,AD,Function not explicitly categorized (likely regulatory role)
+RAB11FIP3,0.8427132780735309,AD,Function not explicitly categorized (likely regulatory role)
+SPDYE2,0.8433820238480201,AD,Function not explicitly categorized (likely regulatory role)
+DACT3,0.8431935952259944,AD,Function not explicitly categorized (likely regulatory role)
+ADAT1,0.8450767260331374,AD,RNA editing enzyme involved in post-transcriptional modification
+VAMP2,0.8473411890176626,AD,Protein involved in synaptic vesicle fusion and neurotransmitter release
+CHURC1,0.8435852390069228,AD,Function not explicitly categorized (likely regulatory role)
+PIN1P1,0.8454982134012076,AD,Function not explicitly categorized (likely regulatory role)
+SOS1,0.8416113807604864,AD,RAS signaling activator involved in intracellular signal transduction
+LIME1,0.841602100775792,PD,Function not explicitly categorized (likely regulatory role)
+BIRC7,0.8424926308485178,PD,Inhibitor of apoptosis protein regulating cell survival mechanisms
+MIA,0.842091862971966,PD,Secreted protein involved in extracellular signaling and cell growth
+MAPK11,0.8442515593308669,PD,Kinase involved in MAPK signaling pathway regulating cell stress and survival
+B4GALNT3,0.8448964219826919,PD,Function not explicitly categorized (likely regulatory role)
+PRKAG3,0.8441437436984136,PD,Function not explicitly categorized (likely regulatory role)
+SACM1L,0.8435439559129568,PD,Function not explicitly categorized (likely regulatory role)
+ADAD2,0.8424782477892362,PD,Function not explicitly categorized (likely regulatory role)
+PGBD5,0.8435755601296058,PD,Function not explicitly categorized (likely regulatory role)
+POU3F1,0.8405128763272212,PD,Function not explicitly categorized (likely regulatory role)
+MNX1,0.8432691555756789,PD,Function not explicitly categorized (likely regulatory role)
+SLITRK2,0.8454084900709299,PD,Axon guidance molecule involved in neuronal connectivity and development
+IFNAR2,0.8418562870759231,PD,Function not explicitly categorized (likely regulatory role)
+CTNNB1,0.8415996982501104,PD,Beta-catenin protein involved in Wnt signaling and cell adhesion
+RARA,0.8423935495890104,PD,Nuclear receptor involved in gene expression regulation and differentiation
+USP40,0.8423484334578881,PD,Function not explicitly categorized (likely regulatory role)
+ZDHHC11,0.8420878740457388,PD,Function not explicitly categorized (likely regulatory role)
+AGPAT3,0.8453905949225793,PD,Enzyme involved in phospholipid biosynthesis and lipid metabolism
+SOS1,0.8416113807604864,PD,RAS signaling activator involved in intracellular signal transduction
+CHURC1,0.8435852390069228,PD,Function not explicitly categorized (likely regulatory role)
+HOXA5,0.8424572165195758,HD,Developmental regulator involved in body patterning and neuronal differentiation
+HOXD9,0.8446076741585364,HD,Developmental regulator involved in body patterning and neuronal differentiation
+POU4F2,0.8420609052364643,HD,Function not explicitly categorized (likely regulatory role)
+HAND1,0.8427677337939923,HD,Function not explicitly categorized (likely regulatory role)
+HOXD10,0.84252562889686,HD,Developmental regulator involved in body patterning and neuronal differentiation
+HOXA10,0.8424347730783316,HD,Developmental regulator involved in body patterning and neuronal differentiation
+PRKD3,0.8414790034294128,HD,Function not explicitly categorized (likely regulatory role)
+SIX6,0.8419160155149606,HD,Function not explicitly categorized (likely regulatory role)
+OTP,0.8425137446476862,HD,Function not explicitly categorized (likely regulatory role)
+HOXC10,0.8424924612045288,HD,Developmental regulator involved in body patterning and neuronal differentiation
+HOXD13,0.8443623872903677,HD,Developmental regulator involved in body patterning and neuronal differentiation
+HOXA11,0.8423386399562542,HD,Developmental regulator involved in body patterning and neuronal differentiation
+SHOX2,0.8438917490152212,HD,Function not explicitly categorized (likely regulatory role)
+PITX1,0.842941362124223,HD,Transcription factor involved in developmental and organ-specific regulation
+HOXA13,0.8413328528404236,HD,Developmental regulator involved in body patterning and neuronal differentiation
+HOXC6,0.8430623091184176,HD,Developmental regulator involved in body patterning and neuronal differentiation
+HOXA7,0.8426885100511404,HD,Developmental regulator involved in body patterning and neuronal differentiation
+RPS27L,0.8414675914324247,HD,Ribosomal protein involved in protein synthesis and translation
+ANO2,0.8412711895429171,HD,Function not explicitly categorized (likely regulatory role)
+PITX2,0.8436744442352881,HD,Transcription factor involved in developmental and organ-specific regulation
+STAG3L3,0.8409310441750747,MS,Function not explicitly categorized (likely regulatory role)
+LRRC55,0.840739905834198,MS,Function not explicitly categorized (likely regulatory role)
+DACT3,0.8431935952259944,MS,Function not explicitly categorized (likely regulatory role)
+CHI3L1,0.8399578332901001,MS,Function not explicitly categorized (likely regulatory role)
+PPIL3,0.8457105480707608,MS,Peptidyl-prolyl isomerase involved in protein folding and cellular regulation
+RPL8,0.8435792739574726,MS,Function not explicitly categorized (likely regulatory role)
+VAMP2,0.8473411890176626,MS,Protein involved in synaptic vesicle fusion and neurotransmitter release
+LOXL2,0.8394999228990995,MS,Function not explicitly categorized (likely regulatory role)
+ZNF415,0.844408915593074,MS,DNA-binding zinc finger protein involved in transcriptional regulation
+BTNL3,0.8448217923824604,MS,Function not explicitly categorized (likely regulatory role)
+FBXO36,0.8433109842813932,MS,Function not explicitly categorized (likely regulatory role)
+RAB11FIP3,0.8427132780735309,MS,Function not explicitly categorized (likely regulatory role)
+PHF8,0.842291419322674,MS,Function not explicitly categorized (likely regulatory role)
+BOD1L1,0.8440634195621197,MS,Function not explicitly categorized (likely regulatory role)
+RALBP1,0.843398758998284,MS,Function not explicitly categorized (likely regulatory role)
+TSPAN1,0.8413319816956153,MS,Function not explicitly categorized (likely regulatory role)
+CHRNA5,0.8398570189109216,MS,Function not explicitly categorized (likely regulatory role)
+NUMB,0.8420431797321026,MS,Function not explicitly categorized (likely regulatory role)
+ZNF92,0.8444276727162875,MS,DNA-binding zinc finger protein involved in transcriptional regulation
+ANO2,0.8412711895429171,MS,Function not explicitly categorized (likely regulatory role)

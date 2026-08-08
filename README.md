@@ -298,10 +298,13 @@ These observations are based on the analyzed datasets and computational results.
 ```text
 neurological-disorders-classification/
 │
-├── README.md
-├── .gitignore
+├── 📁 figures/
+│   ├── hybrid_transformer_pca.png
+│   ├── ml_go_enrichment.png
+│   ├── ml_reactome_enrichment.png
+│   └── transformer_go_enrichment.png
 │
-├── notebooks/
+├── 📁 notebooks/
 │   ├── 01_preprocessing_&_normalization.ipynb
 │   ├── 02_ID_harmonization_&_common_genes.ipynb
 │   ├── 03_dataset_assembly.ipynb
@@ -309,20 +312,17 @@ neurological-disorders-classification/
 │   ├── 05_hybrid_transformer.ipynb
 │   └── transformer_analysis_and_visualization.ipynb
 │
-├── results/
-│   ├── shared_gene_signature.csv
+├── 📁 results/
 │   ├── AD_specific_genes.csv
-│   ├── PD_specific_genes.csv
 │   ├── HD_specific_genes.csv
 │   ├── MS_specific_genes.csv
+│   ├── PD_specific_genes.csv
+│   ├── shared_gene_signature.csv
 │   ├── final_gene_signatures_all_annotated_v2.csv
 │   └── transformer_gene_importance_activation_based.csv
 │
-└── figures/
-    ├── hybrid_transformer_pca.png
-    ├── ml_go_enrichment.png
-    ├── transformer_go_enrichment.png
-    └── ml_reactome_enrichment.png
+├── 📄 .gitignore
+└── 📄 README.md
 
 ```
 

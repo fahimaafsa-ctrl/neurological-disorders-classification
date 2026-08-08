@@ -121,6 +121,37 @@ Features identified by the classical models were used to construct the reduced g
 
 ---
 
+## Results & Visualizations
+
+### Transformer Embedding Analysis
+
+The Hybrid Transformer test-set embeddings were visualized using PCA to examine the representation of samples across the five disease classes.
+
+![Hybrid Transformer PCA](figures/hybrid_transformer_pca.png)
+
+The disease labels correspond to Control (0), Alzheimer's disease (1), Parkinson's disease (2), Huntington's disease (3), and Multiple Sclerosis (4).
+
+### Gene Enrichment Analysis
+
+Gene Ontology enrichment analysis was performed to investigate biological processes associated with genes identified during the machine learning and Transformer analyses.
+
+#### ML-identified Genes
+
+The enrichment analysis of genes identified through the classical machine learning workflow highlighted biological processes related to neuronal structure, signaling, transcriptional regulation, and intracellular transport.
+
+![ML Gene Enrichment](figures/ml_go_enrichment.png)
+
+#### Transformer-identified Genes
+
+GO enrichment analysis of Transformer-identified genes highlighted transcriptional regulation, developmental processes, and regulatory mechanisms.
+
+![Transformer Gene Enrichment](figures/transformer_go_enrichment.png)
+
+### Reactome Pathway Enrichment
+
+Reactome-based enrichment analysis was also used to examine pathway-level patterns among the identified genes.
+
+![ML Reactome Enrichment](figures/ml_reactome_enrichment.png)
 ## Hybrid Transformer
 
 A custom Hybrid Transformer model was implemented using PyTorch.

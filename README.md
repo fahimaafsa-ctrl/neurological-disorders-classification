@@ -102,11 +102,22 @@ Classical machine learning models were implemented as baseline approaches for mu
 
 - Logistic Regression
 - Support Vector Machine (SVM)
-- Random Forest
 
-Model performance was evaluated using classification accuracy and Macro F1-score.
+### Model Performance
 
-The classical models were also used for feature selection, with important genes from the baseline models contributing to the reduced feature set used in the Transformer stage.
+The final models were evaluated using validation accuracy, test accuracy, and test Macro-F1 score.
+
+| Model | Validation Accuracy | Test Accuracy | Macro-F1 (Test) |
+|---|---:|---:|---:|
+| Logistic Regression | 0.814 | **0.909** | **0.699** |
+| SVM (Linear) | **0.837** | 0.864 | 0.630 |
+| Hybrid Transformer | 0.767 | 0.705 | 0.165 |
+
+Logistic Regression achieved the highest test accuracy and test Macro-F1, while SVM achieved the highest validation accuracy.
+
+The Hybrid Transformer showed lower classification performance than the classical models, but its learned representations were further used for embedding analysis, disease similarity, clustering, and gene-importance analysis.
+
+Features identified by the classical models were used to construct the reduced gene set for the subsequent Transformer analysis.
 
 ---
 

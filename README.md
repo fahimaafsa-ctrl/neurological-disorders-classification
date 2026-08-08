@@ -94,6 +94,8 @@ Pathway Enrichment
 Shared & Disease-specific Gene Signatures
 
 ```
+---
+
 ## Classical Machine Learning
 
 Classical machine learning models were implemented as baseline approaches for multi-class disease classification.
@@ -297,13 +299,30 @@ These observations are based on the analyzed datasets and computational results.
 neurological-disorders-classification/
 │
 ├── README.md
+├── .gitignore
 │
-├── 01_preprocessing_&_normalization.ipynb
-├── 02_ID_harmonization_&_common_genes.ipynb
-├── 03_dataset_assembly_ipynb.ipynb
-├── 04_ML_Baseline.ipynb
-├── 05_hybrid_transformer.ipynb
-└── transformer_analysis_and_visualization.ipynb
+├── notebooks/
+│   ├── 01_preprocessing_&_normalization.ipynb
+│   ├── 02_ID_harmonization_&_common_genes.ipynb
+│   ├── 03_dataset_assembly.ipynb
+│   ├── 04_ML_Baseline.ipynb
+│   ├── 05_hybrid_transformer.ipynb
+│   └── transformer_analysis_and_visualization.ipynb
+│
+├── results/
+│   ├── shared_gene_signature.csv
+│   ├── AD_specific_genes.csv
+│   ├── PD_specific_genes.csv
+│   ├── HD_specific_genes.csv
+│   ├── MS_specific_genes.csv
+│   ├── final_gene_signatures_all_annotated_v2.csv
+│   └── transformer_gene_importance_activation_based.csv
+│
+└── figures/
+    ├── hybrid_transformer_pca.png
+    ├── ml_go_enrichment.png
+    ├── transformer_go_enrichment.png
+    └── ml_reactome_enrichment.png
 
 ```
 
